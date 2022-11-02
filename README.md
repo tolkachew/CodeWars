@@ -1,5 +1,7 @@
 # CodeWars
 
+![alt text](https://www.codewars.com/users/lilfeel/badges/micro)
+
 [Profile](https://www.codewars.com/users/lilfeel)
 
 #Java
