@@ -4,7 +4,7 @@
 
 [Profile](https://www.codewars.com/users/lilfeel)
 
-#Java
+Java
 Solution katas with JUnit tests. 
 
 ## Katas:
