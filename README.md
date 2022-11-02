@@ -13,3 +13,4 @@ Solution/condition katas with JUnit tests.
 - [SumArray](https://github.com/tolkachew/CodeWars/blob/master/src/kyu8/SumArray/SumArray.java) - [CodeWars](https://www.codewars.com/kata/53dc54212259ed3d4f00071c)
 - [Return Negative](https://github.com/tolkachew/CodeWars/blob/master/src/kyu8/ReturnNegative/ReturnNegative.java) - [CodeWars](https://www.codewars.com/kata/55685cd7ad70877c23000102)
 - [Convert a string to an array](https://github.com/tolkachew/CodeWars/blob/master/src/kyu8/ConvertStringToArray/StringToArray.java) - [CodeWars](https://www.codewars.com/kata/57e76bc428d6fbc2d500036d)
+- [Sum of positive](https://github.com/tolkachew/CodeWars/blob/master/src/kyu8/SumOfPositive/Positive.java) - [CodeWars](https://www.codewars.com/kata/5715eaedb436cf5606000381)
