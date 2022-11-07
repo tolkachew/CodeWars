@@ -2,11 +2,16 @@
 
 ![alt text](https://www.codewars.com/users/lilfeel/badges/micro)
 
-[Profile](https://www.codewars.com/users/lilfeel)
+[My profile on CodeWars](https://www.codewars.com/users/lilfeel)
 
 Solution/condition katas with JUnit tests. 
 
 ## Katas:
+### 6 kyu:
+- [Summation Triangle #2](https://github.com/tolkachew/CodeWars/blob/master/src/kyu6/TriangleSum2/TriangleSum.java) - [CodeWars](https://www.codewars.com/kata/63579823d25aad000ecfad9f)
+
+### 7 kyu:
+- [Summation Triangle #1](https://github.com/tolkachew/CodeWars/blob/master/src/kyu7/TriangleSum1/TriangleSum.java) - [CodeWars](https://www.codewars.com/kata/6357825a00fba284e0189798)
 
 ### 8 kyu:
 - [Reversed Strings](https://github.com/tolkachew/CodeWars/blob/master/src/kyu8/ReversedStrings/ReversedStrings.java) - [CodeWars](https://www.codewars.com/kata/5168bb5dfe9a00b126000018)
