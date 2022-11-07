@@ -1,4 +1,4 @@
-package ReversedStrings;
+package kyu8.ReversedStrings;
 
 public class ReversedStrings {
     public static String solution(String str) {
